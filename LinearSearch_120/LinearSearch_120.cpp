@@ -34,4 +34,11 @@ void LinearSearch()
 	char ch;
 	int ctr;					// Number of comparision
 
-	
+	do
+	{
+		// Accept the number to be scared
+		cout << "\nEnter the elemen you want to search: ";		// Langkah no 1 Algoritma
+		int item;
+		cin >> item;
+
+		
